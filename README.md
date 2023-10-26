@@ -1,6 +1,6 @@
 # Mandelbrot
 
-TODO
+## To do
 - C++ version with SIMD
 - C++ version with threads
 - C++ version with SIMD and threads
