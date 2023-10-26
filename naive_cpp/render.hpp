@@ -1,6 +1,5 @@
 #pragma once
-#include <SDL.h>
-#undef main
+#include <SDL2/SDL.h>
 
 #include "compute.hpp"
 #include <cstdint>
